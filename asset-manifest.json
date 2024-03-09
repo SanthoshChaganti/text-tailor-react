@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/text-tailor-react/static/css/main.fc1f7bc1.css",
-    "main.js": "/text-tailor-react/static/js/main.1ed4948b.js",
+    "main.js": "/text-tailor-react/static/js/main.32ec0ff0.js",
     "static/js/453.051e2ef1.chunk.js": "/text-tailor-react/static/js/453.051e2ef1.chunk.js",
     "index.html": "/text-tailor-react/index.html",
     "main.fc1f7bc1.css.map": "/text-tailor-react/static/css/main.fc1f7bc1.css.map",
-    "main.1ed4948b.js.map": "/text-tailor-react/static/js/main.1ed4948b.js.map",
+    "main.32ec0ff0.js.map": "/text-tailor-react/static/js/main.32ec0ff0.js.map",
     "453.051e2ef1.chunk.js.map": "/text-tailor-react/static/js/453.051e2ef1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc1f7bc1.css",
-    "static/js/main.1ed4948b.js"
+    "static/js/main.32ec0ff0.js"
   ]
 }
